@@ -4,4 +4,4 @@
 
 <h1>About this site</h1>
 
-<p>This is the 'about' page. There's not much here.</p>
+<p>This is a demo blog using Sanity CMS, Netlify, and Svelte as the front end compiler. 🦁 </p>
